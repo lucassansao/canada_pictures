@@ -1,0 +1,43 @@
+@import "../../../styles/variables";
+
+.tags {
+  width: 65vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: $light-silver;
+  font-family: $font-regular;
+  font-size: 14px;
+
+  p {
+    font-size: 1.25rem;
+  }
+
+  &__list {
+    list-style: none;
+    width: 650px;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    gap: 3px;
+
+    li {
+      display: flex;
+      background-color: $tag-color;
+      padding: 6px 10px;
+      border-radius: 8px;
+      cursor: pointer;
+      // width: auto;
+    }
+
+    li:first-child{
+    
+        &:hover {
+          border-radius: 10px;
+          background: linear-gradient(to right, $bright-lilac, $medium-slate-blue) border-box;
+          color: $maastricht-blue;
+          transition: 0.1s;
+        }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+[
+    {
+      "path": "/assets/popular/pic-1.jpg",
+      "alt": "canada_popular_picture",
+      "id": 1
+    },
+    {
+      "path": "/assets/popular/pic-2.jpg",
+      "alt": "canada_popular_picture",
+      "id": 2
+    },
+    {
+      "path": "/assets/popular/pic-3.jpg",
+      "alt": "canada_popular_picture",
+      "id": 3
+    },
+    {
+      "path": "/assets/popular/pic-4.jpg",
+      "alt": "canada_popular_picture",
+      "id": 4
+    },
+    {
+      "path": "/assets/popular/pic-5.jpg",
+      "alt": "canada_popular_picture",
+      "id": 5
+    }
+  ]

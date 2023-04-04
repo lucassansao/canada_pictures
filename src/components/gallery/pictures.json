@@ -1,0 +1,116 @@
+
+[
+    {
+      "title": "Stone Castle",
+      "province": "British Columbia",
+      "path": "/assets/gallery/pic-1.jpeg",
+      "id": "1",
+      "tag": "British Columbia"
+    },
+    {
+      "title": "Emerald Lake",
+      "province": "British Columbia",
+      "path": "/assets/gallery/pic-2.jpg",
+      "id": "2",
+      "tag": "British Columbia"
+    },
+    {
+      "title": "Whistler Blackcomb",
+      "province": "British Columbia",
+      "path": "/assets/gallery/pic-3.jpg",
+      "id": "3",
+      "tag": "British Columbia"
+    },
+    {
+      "title": "Science World",
+      "province": "British Columbia",
+      "path": "/assets/gallery/pic-4.jpg",
+      "id": "4",
+      "tag": "British Columbia"
+    },
+    {
+      "title": "Lions Gate Bridge",
+      "province": "British Columbia",
+      "path": "/assets/gallery/pic-5.jpg",
+      "id": "5",
+      "tag": "British Columbia"
+    },
+    {
+      "title": "CN Tower",
+      "province": "Ontario",
+      "path": "/assets/gallery/pic-6.jpg",
+      "id": "6",
+      "tag": "Ontario"
+    },
+    {
+      "title": "Haines Junction",
+      "province": "Yukon",
+      "path": "/assets/gallery/pic-7.jpg",
+      "id": "7",
+      "tag": "Yukon"
+    },
+    {
+      "title": "Lake Louise",
+      "province": "Alberta",
+      "path": "/assets/gallery/pic-8.jpg",
+      "id": "8",
+      "tag": "Alberta"
+    },
+    {
+      "title": "Moraine Lake",
+      "province": "Alberta",
+      "path": "/assets/gallery/pic-9.jpg",
+      "id": "9",
+      "tag": "Alberta"
+    },
+    {
+      "title": "Whitehorse",
+      "province": "Yukon",
+      "path": "/assets/gallery/pic-10.jpg",
+      "id": "10",
+      "tag": "Yukon"
+    },
+    {
+      "title": "Niagara Falls",
+      "province": "Ontario",
+      "path": "/assets/gallery/pic-11.jpg",
+      "id": "11",
+      "tag": "Ontario"
+    },
+    {
+      "title": "Yellowknife",
+      "province": "Northwest Territories",
+      "path": "/assets/gallery/pic-12.jpg",
+      "id": "12",
+      "tag": "Northwest Territories"
+    },
+    {
+      "title": "Iqualuit",
+      "province": "Nanavut",
+      "path": "/assets/gallery/pic-13.jpg",
+      "id": "13",
+      "tag": "Nanavut"
+    },
+    {
+      "title": "Chaudière Suspension Bridge",
+      "province": "Quebec",
+      "path": "/assets/gallery/pic-14.jpg",
+      "id": "14",
+      "tag": "Quebec"
+    },
+    {
+      "title": "Jasper National Park",
+      "province": "Alberta",
+      "path": "/assets/gallery/pic-15.jpg",
+      "id": "15",
+      "tag": "Alberta"
+    },
+    {
+      "title": "Parliament Hill",
+      "province": "Ontario",
+      "path": "/assets/gallery/pic-16.jpg",
+      "id": "16",
+      "tag": "Ontario"
+    }
+  ]
+  

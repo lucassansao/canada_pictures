@@ -1,0 +1,46 @@
+@import "../../../styles/variables";
+main {
+    margin: 0 24px;
+  }
+  
+  .main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2rem;
+  
+    &__image {
+      width: 88%;
+
+      img {
+        opacity: 0.1;
+        width: 100%;
+        height: 350px;
+        border-radius: 10px;
+        border: 1px solid transparent;
+        // background: linear-gradient(to right, $bright-lilac, $medium-slate-blue) border-box;
+      }
+  
+      position: relative;
+  
+      h1 {
+        position: absolute;
+        z-index: 1;
+        color: $white;
+        font-size: 4rem;
+        font-family: $font-regular;
+        width: 470px;
+        height: 144px;
+        top: 100px;                                                                 
+        left: 44px;
+      }
+    }
+  }
+
+  .gallery {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-left: 17%;
+    margin-top: 1rem;
+  }
